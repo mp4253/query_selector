@@ -7,7 +7,7 @@ function myFunc(){
     <div> This is performed by JS on clicking the button by ${b}.</div>
 
     <ol>
-        <li>Meet</li>
+        <li>Mitul</li>
         <li>Het</li>
         <li>Vishal</li>
         <li>Parth Amreliya</li>
@@ -15,8 +15,9 @@ function myFunc(){
         <li>Krutak</li>
         <li>Jainish</li>
         <li>Shivam</li>
-        <li>Parekh Mohit</li>
+        <li>Mohit Parekh</li>
         <li>Ritik</li>
+        <li>Vrund</li>
     </ol>
     `;
      
